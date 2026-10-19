@@ -26,7 +26,7 @@ $etiquetasCategoria = [
     'trabajo' => 'Trabajo',
     'personal' => 'Personal',
     'estudio' => 'Estudio',
-    'ocio' => 'Ocio',
+    'otro' => 'Otro',
 ];
 ?>
 <!doctype html>
