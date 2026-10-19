@@ -8,7 +8,7 @@
     surface: #ffffff;
     background: #f5f7fb;
     danger: #b42318;
-    -success: #067647;
+    success: #067647;
 }
 
 * { box-sizing: border-box; }
